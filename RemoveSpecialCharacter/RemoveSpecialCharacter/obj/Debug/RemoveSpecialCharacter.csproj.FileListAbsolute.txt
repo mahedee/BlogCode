@@ -1,0 +1,6 @@
+D:\Code__Collection\mahedee.net\RemoveSpecialCharacter\RemoveSpecialCharacter\bin\Debug\RemoveSpecialCharacter.exe.config
+D:\Code__Collection\mahedee.net\RemoveSpecialCharacter\RemoveSpecialCharacter\bin\Debug\RemoveSpecialCharacter.exe
+D:\Code__Collection\mahedee.net\RemoveSpecialCharacter\RemoveSpecialCharacter\bin\Debug\RemoveSpecialCharacter.pdb
+D:\Code__Collection\mahedee.net\RemoveSpecialCharacter\RemoveSpecialCharacter\obj\Debug\RemoveSpecialCharacter.csprojResolveAssemblyReference.cache
+D:\Code__Collection\mahedee.net\RemoveSpecialCharacter\RemoveSpecialCharacter\obj\Debug\RemoveSpecialCharacter.exe
+D:\Code__Collection\mahedee.net\RemoveSpecialCharacter\RemoveSpecialCharacter\obj\Debug\RemoveSpecialCharacter.pdb
