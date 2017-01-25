@@ -1,0 +1,4 @@
+http://powerdotnetcore.com/asp-net-mvc/crop-image-by-using-jcrop
+
+
+Installed latest version of Jquery from nuget image.
